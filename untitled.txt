@@ -2,14 +2,17 @@ code1:
 "mylist=[14, "hello", 967]
 mylist[6]"
 he must wrote one of the positions on the list 
-code2:
+
+code10:
 "x=19/0"
 we cant divsion on 0
-code3:
+
+code4:
 mydictionnary={True:"hello",False:"bye", '3':"python"}
 mydictionnary['True']
 the error is writing true between''
-code4:
+
+code6:
 it=iter([1,2,3])
 next(it)
 next(it)
@@ -21,27 +24,33 @@ next(it)
 next(it)
 next(it)
 or less 'next(it)'
-code5:
+
+code7:
 '15'+15
 it cant be str +int 
 maybe int +int or str +str
+
 code 6:
 Print"python errors"
 the correct syntax is Print(python errors)
-code7:
+
+code2:
 import Pandas
 import NumPy
 there are more then one library
-code 8:
+
+code 5:
 i=14
 while i<78:
 print(i)
 i+=1
 there is no indintation before print(i)
-code9:
+
+code8:
 int('python')
 it cant be a str in an int
-code 10:
+
+code 9:
 python
 this word is not difinded in python
 
